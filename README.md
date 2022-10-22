@@ -1,5 +1,5 @@
 # sitekaiko
-Página de Login e cadastro, utilizando HTML, CSS, JavaScript e localStorage, totalmente funcional.
+Página de Login e cadastro, utilizando HTML, CSS, JavaScript, utilizando localStorage no cadastro, totalmente funcional.
 
 
 # 
